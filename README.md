@@ -24,12 +24,7 @@ numpy
 opencv-python==4.8.1.78
 Pillow==8.3.2
 numpy==1.26.2
-```
-- [GloriosaAI Repository](https://github.com/CursedPrograms/GloriosaAI)
-- [Gender-Age-ID Repository](https://github.com/CursedPrograms/Gender-Age-ID)
-- [Image-Generator Repository](https://github.com/CursedPrograms/Image-Generator)
-- [Cursed GPT Repository](https://github.com/CursedPrograms/Cursed-GPT)
-
+```
 <br>
 <div align="center">
 <a href="https://github.com/SynthWomb" target="_blank" align="center">
