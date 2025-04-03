@@ -24,15 +24,6 @@ numpy
 opencv-python==4.8.1.78
 Pillow==8.3.2
 numpy==1.26.2
-```
-<br>
-<div align="center">
-<a href="https://github.com/SynthWomb" target="_blank" align="center">
-    <img src="https://github.com/SynthWomb/SynthWomb/blob/main/logos/synthwomb07.png"
-        alt="SynthWomb" style="width:200px;"/>
-</a>
-</div>
-<br>
-<div align="center">
+```
 
-</div>
+<br>
